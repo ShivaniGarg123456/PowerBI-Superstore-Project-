@@ -5,12 +5,6 @@ It highlights key business metrics like **Total Sales, Profit, Quantity, and Ord
 
 ---
 
-## 🖼️ Dashboard Preview
-![Superstore Sales Dashboard]( <img width="1305" height="728" alt="dashboard " src="https://github.com/user-attachments/assets/1d3f4ff9-130a-4e3b-ac66-192019d38724" />
-)
-
----
-
 ## 🎯 Objective
 To analyze Superstore data and visualize key performance indicators that help understand:
 - Sales trends over the years  
